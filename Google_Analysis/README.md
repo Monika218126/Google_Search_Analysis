@@ -34,27 +34,27 @@ Google-Analysis/
 
 ├── data/
 
-│   ├── raw/raw.csv
+│      ├── raw/raw.csv
 
-│   ├── clean/google_cleaned.csv
+│      ├── clean/google_cleaned.csv
 
-│   └── processed/
+│      └── processed/
 
-│       ├── category_summary.csv
+│               ├── category_summary.csv
 
-│       ├── device_summary.csv
+│               ├── device_summary.csv
 
-│       └── region_summary.csv
+│               └── region_summary.csv
 
 ├── visuals/
 
-│   ├── hbar_category_search_volume.png
+│     ├── hbar_category_search_volume.png
 
-│   ├── boxplot_bounce_rate.png
+│     ├── boxplot_bounce_rate.png
+ 
+│     ├── scatter_volume_vs_ctr.png
 
-│   ├── scatter_volume_vs_ctr.png
-
-│   └── pie_device_share.png
+│     └── pie_device_share.png
 
 ├── report/report.md
 
@@ -73,5 +73,6 @@ Google-Analysis/
 ✅Conclusion
 
 This project reflects a real-world data analytics process and can be showcased for academic evaluation.
+
 
 
