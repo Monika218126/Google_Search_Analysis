@@ -1,4 +1,4 @@
-📊Google Search Analysis – End-to-End Data Analytics Project
+📊Google Search Analysis – Data Analytics Project
 
 📌Overview
 
@@ -23,6 +23,7 @@ This project demonstrates a complete data analytics workflow using a Google Sear
 📁Project Structure
 
 Google-Analysis/
+
 ├── analysis.py
 ├── data/
 │   ├── raw/raw.csv
