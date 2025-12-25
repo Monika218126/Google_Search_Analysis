@@ -1,0 +1,137 @@
+date,keyword,search_volume,region,category,device,language,search_type,trend_score,click_through_rate,bounce_rate,avg_session_time,is_seasonal
+2023/01/01,google trends,5400,India,Technology,Mobile,English,Web,72,0.42,0.35,180,Yes
+2023-02-01,python course,8800,india,Education,Desktop,English,Web,81,0.51,0.28,240,no
+2023-09-01,data analytics,,USA,Education,Mobile,English,Web,78,0.49,0.31,220,No
+2023-03-01,ipl live score,25000,INDIA,Sports,Mobile,English,Web,95,0.67,0.18,300,Yes
+2023-04-01,weather today,18000,India,General,Mobile,Tamil,Web,88,0.58,0.25,160,Yes
+2023-05-01,online shopping,13200,UK,Ecomerce, Desktop ,English,Web,82,0.54,0.29,260,No
+2023-06-01,google maps,21000,USA,Technology,Mobile,English,Web,90,0.61,0.22,200,
+2023-07-02,chatgpt,19500,India,Technology,Desktop,English,Web,92,0.64,0.21,310,No
+2023-01-03,exam results,16500,Ind,Education,Mobile,English,Web,86,0.59,0.26,190,Yes
+2023-01-04,job vacancies,14000,India,Career,Desktop,English,Web,83,0.56,0.30,230,No
+2023-01-05,travel booking,9800,USA,Travel,Mobile,English,Web,77,0.47,0.34,210,No
+2023-01-06,hotel booking,10500,UK,Travel,Desktop,English,Web,79,0.48,0.33,240,No
+2023-02-06,flight tickets,15800,India,Travel,Mobile,English,Web,85,0.57,0.27,260,yes
+2023-02-04,cricket news,17500,India,Sports,Mobile,English,Web,89,0.62,0.23,280,Yes
+2023-01-04,stock market,N/A,USA,Finance,Desktop,English,Web,76,0.45,0.36,250,No
+2023-01-16,mutual funds,6800,India,Finance,Desktop,English,Web,70,0.41,0.38,270,No
+2023/01/01,cryptocurrency,11200,USA,Finance,Mobile,English,Web,80,0.52,0.32,290,No
+2023/01/01,online classes,13400,India,Education,Mobile,English,Web,84,0.55,,310,Yes
+2023/03/01,fitness tips,7200,UK,Health,Mobile,English,Web,73,0.44,0.35,200,No
+2023-03-02,yoga benefits,6400,India,Health,Mobile,English,Web,71,0.43,0.36,210,No
+2023-03-21,weight loss,8900,USA,Health,Desktop,English,Web,75,0.46,0.34,260,No
+2023-03-22,healthy diet,7700,India,Health,Mobile,English,Web,74,0.45,0.33,220,No
+2023-03-23,online banking,11800,India,Finance,Desktop,English,Web,82,0.53,0.31,240,No
+2023/03/24,upi payment,16000,India,Finance,Mobile,English,Web,87,0.60,0.26,180,Yes
+2023-01-24,upi payment,16000,India,Finance,Mobile,English,Web,87,0.60,0.26,180,Yes
+2023-01-25,loan interest,5900,UK,Finance,Desktop,English,Web,69,0.40,0.39,250,No
+2023-01-26,insurance plans,6100,India,Finance,Desktop,English,Web,70,0.41,0.37,260,No
+2023/01/27,amazon sale,22000,India,Ecomerce,Mobile,English,Web,93,0.66,0.19,320,Yes
+2023-01-28,flipkart offers,20500,India,Ecomerce,Mobile,English,Web,91,0.64,0.21,310,Yes
+2023-01-29,laptop deals,14500,USA,Ecomerce,Desktop,English,Web,85,0.58,0.26,300,No
+2023-01-30,mobile phones,17200,India,Technology,Mobile,English,Web,88,0.61,0.24,280,No
+2023-01-31,ai tools,19000,USA,Technology,Desktop,English,Web,90,0.63,0.22,290,No
+2023/02/01,programming jobs,12500,India,Career,Desktop,English,Web,84,0.56,0.28,260,No
+2023/02/02,resume format,9800,India,Career,Mobile,English,Web,80,0.52,0.31,210,No
+2023/02/03,interview tips,8600,USA,Career,Desktop,English,Web,78,0.49,0.33,240,No
+2023/02/04,digital marketing,11300,India,Marketing,Desktop,English,Web,83,0.55,0.29,270,No
+2023-02-05,seo techniques,seven thousand,UK,Marketing,Desktop,English,Web,74,0.46,0.35,260,No
+2023-02-06,social media ads,8900,USA,Marketing,Mobile,English,Web,79,0.50,0.32,230,No
+2023-02-07,email marketing,6600,India,Marketing,Desktop,English,Web,72,0.44,0.36,250,No
+2023-02-08,youtube monetization,15200,India,Technology,Mobile,English,Web,87,0.60,0.25,300,Yes
+2023-02-09,blogging tips,5800,USA,Technology,Desktop,English,Web,69,0.41,0.38,260,No
+2023-02-10,freelancing jobs,13400,India,Career,Mobile,English,Web,85,0.57,0.27,290,No
+2023-02-11,work from home,19800,India,Career,Mobile,English,Web,92,0.65,0.20,310,Yes
+2023/02/12,online exams,14200,India,Education,Mobile,English,Web,86,0.59,0.26,240,Yes
+2023-02-13,e learning platforms,9100,USA,Education,Desktop,English,Web,77,0.48,0.34,260,No
+2023/02/14,coding bootcamp,8300,UK,Education,Desktop,English,Web,75,0.47,0.35,270,No
+2023-02-15,cloud computing,12000,USA,Technology,Desktop,English,Web,84,0.56,0.28,300,No
+2023-02-16,cyber security,11000,India,Technology,Desktop,English,Web,82,0.54,0.30,290,No
+2023-02-17,blockchain course,6900,india,Technology,Desktop,English,Web,71,0.43,0.37,280,No
+2023/01/18,data science salary,9600,USA,Education,Desktop,English,Web,79,0.50,0.32,260,No
+2023-02-19,excel formulas,10200,INDIA,Education,Desktop,English,Web,81,0.53,0.30,250,no
+2023-02-20,power bi tutorial,,India,Education,Desktop,English,Web,83,0.55,0.29,270,No
+2023-02-21,tableau dashboard,8700,USA,Education,Desktop,English,Web,78,0.49,0.33,260,No
+2023/02/22,sql queries,9400,India,Education,Desktop,English,Web,80,0.52,0.31,240,No
+2023-02-23,machine learning,12800,USA,Technology,Desktop,English,Web,85,0.57,0.27,300,No
+2023-02-24,deep learning,11500,USA,Technology,Desktop,English,Web,83,0.55,0.29,310,No
+2023-02-25,artificial intelligence,15000,India,Technology,Desktop,English,Web,88,0.61,0.24,320,Yes
+2023-02-26,nlp course,7200,India,Technology,Desktop,English,Web,72,0.44,0.36,280,No
+2023-02-27,computer vision,6800,UK,Technology,Desktop,English,Web,70,0.42,0.38,270,No
+2023-02-28,data analyst jobs,13400,India,Career,Desktop,English,Web,85,0.57,0.27,290,No
+2023/03/01,software engineer jobs,16000,India,Career,Desktop,English,Web,89,0.62,0.23,300,Yes
+2023-03-02,internship openings,9800,India,Career,Mobile,English,Web,80,0.52,0.31,210,No
+2023-03-03,freshers jobs,14500,India,Career,Mobile,English,Web,87,0.60,0.26,220,Yes
+2023-03-04,govt jobs,22000,India,Career,Mobile,English,Web,94,0.66,0.19,200,Yes
+2023-03-05,bank exams,17500,India,Education,Mobile,English,Web,90,0.63,0.22,240,Yes
+2023-03-06,ssc exam,16800,Ind,Education,Mobile,English,Web,88,0.61,0.24,230,Yes
+2023-03-07,upsc syllabus,14200,India,Education,Desktop,English,Web,86,0.59,0.26,260,Yes
+2023-03-08,neet exam,19800,India,Education,Mobile,English,Web,92,0.65,0.20,250,Yes
+2023-03-09,jee mains,20500,India,Education,Mobile,English,Web,93,0.66,0.19,260,Yes
+2023-03-10,college admissions,11000,India,Education,Desktop,English,Web,82,0.54,0.30,280,No
+2023-03-11,online degrees,8900,USA,Education,Desktop,English,Web,76,0.47,0.34,300,No
+2023-03-12,scholarships,10400,India,Education,Mobile,English,Web,81,0.53,,240,No
+2023-03-13,study abroad,12500,India,Education,Desktop,English,Web,84,0.56,0.28,290,No
+2023/03/14,ielts exam,9600,UK,Education,Desktop,English,Web,79,0.50,0.32,260,No
+2023-03-15,toefl test,7400,USA,Education,Desktop,English,Web,74,0.46,0.35,250,No
+2023-03-16,language courses,6800,India,Education,Desktop,English,Web,71,0.43,0.37,240,No
+2023/03/17,spoken english,12000,India,Education,Mobile,English,Web,85,0.57,0.27,220,Yes
+2023-03-18,online coaching,13400,India,Education,Mobile,English,Web,87,0.60,0.25,260,Yes
+2023-03-19,tuition near me,8900,India,Education,Mobile,English,Web,78,0.49,0.33,210,No
+2023/03/20,career guidance,N/A,India,Career,Desktop,English,Web,80,0.52,0.31,270,No
+2023-03-21,aptitude test,7600,India,Education,Desktop,English,Web,73,0.45,0.35,260,No
+2023/03/22,logical reasoning,7200,India,Education,Desktop,English,Web,72,0.44,0.36,250,No
+2023-03-23,quantitative aptitude,8100,India,Education,Desktop,English,Web,75,0.47,0.34,260,No
+2023-03-24,placement training,9200,India,Career,Desktop,English,Web,79,0.50,0.32,280,No
+2023/03/25,soft skills training,6900,India,Career,Desktop,English,Web,71,0.43,0.37,270,No
+2023-03-26,resume builder,9800,india,Career,Desktop,English,Web,80,0.52,0.31,260,No
+2023-03-27,linkedin profile tips,8400,USA,Career,Desktop,English,Web,77,0.48,0.34,250,No
+2023-03-28,interview questions,15800,India,Career,Mobile,English,Web,88,0.61,0.24,240,Yes
+2023-03-29,hr interview,10500,India,Career,Mobile,English,Web,82,0.54,0.30,230,No
+2023-03-30,technical interview,11200,India,Career,Desktop,English,Web,83,0.55,0.29,260,No
+2023-03-31,job portals,13000,India,Career,Desktop,English,Web,85,0.57,0.27,280,No
+2023-04-01,startup ideas,11500,India,Business,Desktop,English,Web,84,0.56,0.28,290,No
+2023-04-02,small business loans,9800,India,Business,Desktop,English,Web,80,0.52,0.31,270,No
+2023-04-03,msme registration,13400,India,Business,Desktop,English,Web,87,0.60,0.25,260,Yes
+2023/01/18,entrepreneurship course,7600,USA,Business,Desktop,English,Web,73,0.45,0.35,280,No
+2023-04-05,franchise business,8900,India,Business,Desktop,English,Web,78,0.49,0.33,300,No
+2023-04-06,online business ideas,14500,India,Business,Desktop,English,Web,88,0.61,0.24,310,Yes
+2023-04-07,dropshipping,N/A,India,Ecomerce,Desktop,English,Web,82,0.54,0.30,290,No
+2023-04-08,amazon seller account,16800,India,Ecomerce,Desktop,English,Web,90,0.63,0.22,320,Yes
+2023-04-09,flipkart seller,15200,India,Ecomerce,Desktop,English,Web,88,0.61,0.24,310,Yes
+2023/04/10,meesho supplier,13800,india,Ecomerce,Desktop,English,Web,86,0.59,0.26,300,No
+2023-04-11,online store setup,9100,India,Ecomerce,Desktop,English,Web,79,0.50,0.32,280,No
+2023-04-12,payment gateway,10400,India,Finance,Desktop,English,Web,81,0.53,0.30,260,No
+2023/04/13,gst registration,18500,India,Finance,Desktop,English,Web,92,0.65,0.20,240,Yes
+2023-04-14,tax filing,17200,India,Finance,Desktop,English,Web,89,0.62,0.23,250,Yes
+2023-04-15,accounting software,9600,USA,Finance,Desktop,English,Web,79,0.50,0.32,270,No
+2023/04/16,tally course,11800,India,Finance,Desktop,English,Web,83,0.55,0.29,260,No
+2023-04-17,invoice generator,7400,India,Finance,Desktop,English,Web,72,0.44,0.36,250,No
+2023-04-18,budget planning,6800,India,Finance,Desktop,English,Web,70,0.42,0.38,240,No
+2023-04-19,personal finance tips,8900,India,Finance,Mobile,English,Web,78,0.49,0.33,220,No
+2023-04-20,investment options,12000,India,Finance,Desktop,English,Web,85,0.57,0.27,280,No
+2023-04-21,stock market today,21000,India,Finance,Mobile,English,Web,94,0.66,0.19,230,Yes
+2023/04/22,share market news,19800,India,Finance,Mobile,English,Web,92,0.65,0.20,240,Yes
+2023-04-23,mutual fund returns,13400,India,Finance,Desktop,English,Web,87,0.60,0.25,260,No
+2023-04-24,sip calculator,15800,India,Finance,Mobile,English,Web,89,0.62,0.23,220,Yes
+2023-04-25,retirement planning,7600,USA,Finance,Desktop,English,Web,74,0.46,0.35,300,No
+2023-04-26,insurance premium,N/A,India,Finance,Desktop,English,Web,80,0.52,0.31,270,No
+2023/04/27,health insurance,14500,India,Insurance,Desktop,English,Web,88,0.61,0.24,290,No
+2023-04-28,life insurance plans,13200,India,Insurance,Desktop,English,Web,86,0.59,0.26,300,No
+2023-04-29,term insurance,11800,India,Insurance,Desktop,English,Web,83,0.55,0.29,280,No
+2023-04-30,car insurance,16000,India,Insurance,Mobile,English,Web,90,0.63,0.22,240,Yes
+2023-05-01,health insurance renewal,9800,India,Insurance,Desktop,English,Web,80,0.52,0.31,260,No
+2023-05-02,medical claims process,7200,India,Insurance,Desktop,English,Web,72,0.44,0.36,250,No
+2023-05-03,policy comparison,8600,India,Insurance,Desktop,English,Web,77,0.48,0.34,270,No
+2023-05-04,online doctor consultation,17500,India,Health,Mobile,English,Web,91,0.64,0.21,230,Yes
+2023-05-05,telemedicine,14200,India,Health,Desktop,English,Web,87,0.60,0.25,260,No
+2023-05-06,mental health support,12500,India,Health,Mobile,English,Web,85,0.57,0.27,240,No
+2023-05-07,fitness apps,9800,India,Health,Mobile,English,Web,80,0.52,0.31,220,No
+2023-05-08,diet plans,8900,India,Health,Mobile,English,Web,78,0.49,0.33,210,No
+2023-05-09,home workouts,13400,India,Health,Mobile,English,Web,86,0.59,0.26,230,No
+2023-05-10,weight gain tips,7600,India,Health,Mobile,English,Web,74,0.46,0.35,220,No
+2023-05-11,yoga classes near me,9200,India,Health,Mobile,English,Web,79,0.50,0.32,210,No
+2023-05-12,healthy recipes,10500,India,Health,Mobile,English,Web,81,0.53,0.30,200,No
+2023-05-13,child nutrition,6800,India,Health,Desktop,English,Web,70,0.42,0.38,230,No
+2023-05-14,summer health tips,11800,India,Health,Mobile,English,Web,84,0.56,0.28,220,Yes
+2023-06-01,monsoon diseases,14500,India,Health,Mobile,English,Web,88,0.61,0.24,210,Yes

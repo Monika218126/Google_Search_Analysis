@@ -1,0 +1,137 @@
+date,keyword,search_volume,region,category,device,language,search_type,trend_score,click_through_rate,bounce_rate,avg_session_time,is_seasonal
+01-01-2023,Google Trends,5400.0,India,Technology,Mobile,English,Web,72,0.42,0.35,180,Yes
+01-01-2023,Online Classes,13400.0,India,Education,Mobile,English,Web,84,0.55,0.3,310,Yes
+01-01-2023,Cryptocurrency,11200.0,Usa,Finance,Mobile,English,Web,80,0.52,0.32,290,No
+01-02-2023,Python Course,8800.0,India,Education,Desktop,English,Web,81,0.51,0.28,240,No
+01-02-2023,Programming Jobs,12500.0,India,Career,Desktop,English,Web,84,0.56,0.28,260,No
+01-03-2023,Ipl Live Score,25000.0,India,Sports,Mobile,English,Web,95,0.67,0.18,300,Yes
+01-03-2023,Software Engineer Jobs,16000.0,India,Career,Desktop,English,Web,89,0.62,0.23,300,Yes
+01-03-2023,Fitness Tips,7200.0,Uk,Health,Mobile,English,Web,73,0.44,0.35,200,No
+01-04-2023,Weather Today,18000.0,India,General,Mobile,Tamil,Web,88,0.58,0.25,160,Yes
+01-04-2023,Startup Ideas,11500.0,India,Business,Desktop,English,Web,84,0.56,0.28,290,No
+01-05-2023,Health Insurance Renewal,9800.0,India,Insurance,Desktop,English,Web,80,0.52,0.31,260,No
+01-05-2023,Online Shopping,13200.0,Uk,Ecomerce,Desktop,English,Web,82,0.54,0.29,260,No
+01-06-2023,Monsoon Diseases,14500.0,India,Health,Mobile,English,Web,88,0.61,0.24,210,Yes
+01-06-2023,Google Maps,21000.0,Usa,Technology,Mobile,English,Web,90,0.61,0.22,200,Nan
+01-09-2023,Data Analytics,11500.0,Usa,Education,Mobile,English,Web,78,0.49,0.31,220,No
+02-02-2023,Resume Format,9800.0,India,Career,Mobile,English,Web,80,0.52,0.31,210,No
+02-03-2023,Internship Openings,9800.0,India,Career,Mobile,English,Web,80,0.52,0.31,210,No
+02-03-2023,Yoga Benefits,6400.0,India,Health,Mobile,English,Web,71,0.43,0.36,210,No
+02-04-2023,Small Business Loans,9800.0,India,Business,Desktop,English,Web,80,0.52,0.31,270,No
+02-05-2023,Medical Claims Process,7200.0,India,Insurance,Desktop,English,Web,72,0.44,0.36,250,No
+02-07-2023,Chatgpt,19500.0,India,Technology,Desktop,English,Web,92,0.64,0.21,310,No
+03-01-2023,Exam Results,16500.0,Ind,Education,Mobile,English,Web,86,0.59,0.26,190,Yes
+03-02-2023,Interview Tips,8600.0,Usa,Career,Desktop,English,Web,78,0.49,0.33,240,No
+03-03-2023,Freshers Jobs,14500.0,India,Career,Mobile,English,Web,87,0.6,0.26,220,Yes
+03-04-2023,Msme Registration,13400.0,India,Business,Desktop,English,Web,87,0.6,0.25,260,Yes
+03-05-2023,Policy Comparison,8600.0,India,Insurance,Desktop,English,Web,77,0.48,0.34,270,No
+04-01-2023,Job Vacancies,14000.0,India,Career,Desktop,English,Web,83,0.56,0.3,230,No
+04-01-2023,Stock Market,11500.0,Usa,Finance,Desktop,English,Web,76,0.45,0.36,250,No
+04-02-2023,Digital Marketing,11300.0,India,Marketing,Desktop,English,Web,83,0.55,0.29,270,No
+04-02-2023,Cricket News,17500.0,India,Sports,Mobile,English,Web,89,0.62,0.23,280,Yes
+04-03-2023,Govt Jobs,22000.0,India,Career,Mobile,English,Web,94,0.66,0.19,200,Yes
+04-05-2023,Online Doctor Consultation,17500.0,India,Health,Mobile,English,Web,91,0.64,0.21,230,Yes
+05-01-2023,Travel Booking,9800.0,Usa,Travel,Mobile,English,Web,77,0.47,0.34,210,No
+05-02-2023,Seo Techniques,11500.0,Uk,Marketing,Desktop,English,Web,74,0.46,0.35,260,No
+05-03-2023,Bank Exams,17500.0,India,Education,Mobile,English,Web,90,0.63,0.22,240,Yes
+05-04-2023,Franchise Business,8900.0,India,Business,Desktop,English,Web,78,0.49,0.33,300,No
+05-05-2023,Telemedicine,14200.0,India,Health,Desktop,English,Web,87,0.6,0.25,260,No
+06-01-2023,Hotel Booking,10500.0,Uk,Travel,Desktop,English,Web,79,0.48,0.33,240,No
+06-02-2023,Flight Tickets,15800.0,India,Travel,Mobile,English,Web,85,0.57,0.27,260,Yes
+06-02-2023,Social Media Ads,8900.0,Usa,Marketing,Mobile,English,Web,79,0.5,0.32,230,No
+06-03-2023,Ssc Exam,16800.0,Ind,Education,Mobile,English,Web,88,0.61,0.24,230,Yes
+06-04-2023,Online Business Ideas,14500.0,India,Business,Desktop,English,Web,88,0.61,0.24,310,Yes
+06-05-2023,Mental Health Support,12500.0,India,Health,Mobile,English,Web,85,0.57,0.27,240,No
+07-02-2023,Email Marketing,6600.0,India,Marketing,Desktop,English,Web,72,0.44,0.36,250,No
+07-03-2023,Upsc Syllabus,14200.0,India,Education,Desktop,English,Web,86,0.59,0.26,260,Yes
+07-04-2023,Dropshipping,11500.0,India,Ecomerce,Desktop,English,Web,82,0.54,0.3,290,No
+07-05-2023,Fitness Apps,9800.0,India,Health,Mobile,English,Web,80,0.52,0.31,220,No
+08-02-2023,Youtube Monetization,15200.0,India,Technology,Mobile,English,Web,87,0.6,0.25,300,Yes
+08-03-2023,Neet Exam,19800.0,India,Education,Mobile,English,Web,92,0.65,0.2,250,Yes
+08-04-2023,Amazon Seller Account,16800.0,India,Ecomerce,Desktop,English,Web,90,0.63,0.22,320,Yes
+08-05-2023,Diet Plans,8900.0,India,Health,Mobile,English,Web,78,0.49,0.33,210,No
+09-02-2023,Blogging Tips,5800.0,Usa,Technology,Desktop,English,Web,69,0.41,0.38,260,No
+09-03-2023,Jee Mains,20500.0,India,Education,Mobile,English,Web,93,0.66,0.19,260,Yes
+09-04-2023,Flipkart Seller,15200.0,India,Ecomerce,Desktop,English,Web,88,0.61,0.24,310,Yes
+09-05-2023,Home Workouts,13400.0,India,Health,Mobile,English,Web,86,0.59,0.26,230,No
+10-02-2023,Freelancing Jobs,13400.0,India,Career,Mobile,English,Web,85,0.57,0.27,290,No
+10-03-2023,College Admissions,11000.0,India,Education,Desktop,English,Web,82,0.54,0.3,280,No
+10-04-2023,Meesho Supplier,13800.0,India,Ecomerce,Desktop,English,Web,86,0.59,0.26,300,No
+10-05-2023,Weight Gain Tips,7600.0,India,Health,Mobile,English,Web,74,0.46,0.35,220,No
+11-02-2023,Work From Home,19800.0,India,Career,Mobile,English,Web,92,0.65,0.2,310,Yes
+11-03-2023,Online Degrees,8900.0,Usa,Education,Desktop,English,Web,76,0.47,0.34,300,No
+11-04-2023,Online Store Setup,9100.0,India,Ecomerce,Desktop,English,Web,79,0.5,0.32,280,No
+11-05-2023,Yoga Classes Near Me,9200.0,India,Health,Mobile,English,Web,79,0.5,0.32,210,No
+12-02-2023,Online Exams,14200.0,India,Education,Mobile,English,Web,86,0.59,0.26,240,Yes
+12-03-2023,Scholarships,10400.0,India,Education,Mobile,English,Web,81,0.53,0.3,240,No
+12-04-2023,Payment Gateway,10400.0,India,Finance,Desktop,English,Web,81,0.53,0.3,260,No
+12-05-2023,Healthy Recipes,10500.0,India,Health,Mobile,English,Web,81,0.53,0.3,200,No
+13-02-2023,E Learning Platforms,9100.0,Usa,Education,Desktop,English,Web,77,0.48,0.34,260,No
+13-03-2023,Study Abroad,12500.0,India,Education,Desktop,English,Web,84,0.56,0.28,290,No
+13-04-2023,Gst Registration,18500.0,India,Finance,Desktop,English,Web,92,0.65,0.2,240,Yes
+13-05-2023,Child Nutrition,6800.0,India,Health,Desktop,English,Web,70,0.42,0.38,230,No
+14-02-2023,Coding Bootcamp,8300.0,Uk,Education,Desktop,English,Web,75,0.47,0.35,270,No
+14-03-2023,Ielts Exam,9600.0,Uk,Education,Desktop,English,Web,79,0.5,0.32,260,No
+14-04-2023,Tax Filing,17200.0,India,Finance,Desktop,English,Web,89,0.62,0.23,250,Yes
+14-05-2023,Summer Health Tips,11800.0,India,Health,Mobile,English,Web,84,0.56,0.28,220,Yes
+15-02-2023,Cloud Computing,12000.0,Usa,Technology,Desktop,English,Web,84,0.56,0.28,300,No
+15-03-2023,Toefl Test,7400.0,Usa,Education,Desktop,English,Web,74,0.46,0.35,250,No
+15-04-2023,Accounting Software,9600.0,Usa,Finance,Desktop,English,Web,79,0.5,0.32,270,No
+16-01-2023,Mutual Funds,6800.0,India,Finance,Desktop,English,Web,70,0.41,0.38,270,No
+16-02-2023,Cyber Security,11000.0,India,Technology,Desktop,English,Web,82,0.54,0.3,290,No
+16-03-2023,Language Courses,6800.0,India,Education,Desktop,English,Web,71,0.43,0.37,240,No
+16-04-2023,Tally Course,11800.0,India,Finance,Desktop,English,Web,83,0.55,0.29,260,No
+17-02-2023,Blockchain Course,6900.0,India,Technology,Desktop,English,Web,71,0.43,0.37,280,No
+17-03-2023,Spoken English,12000.0,India,Education,Mobile,English,Web,85,0.57,0.27,220,Yes
+17-04-2023,Invoice Generator,7400.0,India,Finance,Desktop,English,Web,72,0.44,0.36,250,No
+18-01-2023,Entrepreneurship Course,7600.0,Usa,Business,Desktop,English,Web,73,0.45,0.35,280,No
+18-01-2023,Data Science Salary,9600.0,Usa,Education,Desktop,English,Web,79,0.5,0.32,260,No
+18-03-2023,Online Coaching,13400.0,India,Education,Mobile,English,Web,87,0.6,0.25,260,Yes
+18-04-2023,Budget Planning,6800.0,India,Finance,Desktop,English,Web,70,0.42,0.38,240,No
+19-02-2023,Excel Formulas,10200.0,India,Education,Desktop,English,Web,81,0.53,0.3,250,No
+19-03-2023,Tuition Near Me,8900.0,India,Education,Mobile,English,Web,78,0.49,0.33,210,No
+19-04-2023,Personal Finance Tips,8900.0,India,Finance,Mobile,English,Web,78,0.49,0.33,220,No
+20-02-2023,Power Bi Tutorial,11500.0,India,Education,Desktop,English,Web,83,0.55,0.29,270,No
+20-03-2023,Career Guidance,11500.0,India,Career,Desktop,English,Web,80,0.52,0.31,270,No
+20-04-2023,Investment Options,12000.0,India,Finance,Desktop,English,Web,85,0.57,0.27,280,No
+21-02-2023,Tableau Dashboard,8700.0,Usa,Education,Desktop,English,Web,78,0.49,0.33,260,No
+21-03-2023,Weight Loss,8900.0,Usa,Health,Desktop,English,Web,75,0.46,0.34,260,No
+21-03-2023,Aptitude Test,7600.0,India,Education,Desktop,English,Web,73,0.45,0.35,260,No
+21-04-2023,Stock Market Today,21000.0,India,Finance,Mobile,English,Web,94,0.66,0.19,230,Yes
+22-02-2023,Sql Queries,9400.0,India,Education,Desktop,English,Web,80,0.52,0.31,240,No
+22-03-2023,Healthy Diet,7700.0,India,Health,Mobile,English,Web,74,0.45,0.33,220,No
+22-03-2023,Logical Reasoning,7200.0,India,Education,Desktop,English,Web,72,0.44,0.36,250,No
+22-04-2023,Share Market News,19800.0,India,Finance,Mobile,English,Web,92,0.65,0.2,240,Yes
+23-02-2023,Machine Learning,12800.0,Usa,Technology,Desktop,English,Web,85,0.57,0.27,300,No
+23-03-2023,Quantitative Aptitude,8100.0,India,Education,Desktop,English,Web,75,0.47,0.34,260,No
+23-03-2023,Online Banking,11800.0,India,Finance,Desktop,English,Web,82,0.53,0.31,240,No
+23-04-2023,Mutual Fund Returns,13400.0,India,Finance,Desktop,English,Web,87,0.6,0.25,260,No
+24-01-2023,Upi Payment,16000.0,India,Finance,Mobile,English,Web,87,0.6,0.26,180,Yes
+24-02-2023,Deep Learning,11500.0,Usa,Technology,Desktop,English,Web,83,0.55,0.29,310,No
+24-03-2023,Upi Payment,16000.0,India,Finance,Mobile,English,Web,87,0.6,0.26,180,Yes
+24-03-2023,Placement Training,9200.0,India,Career,Desktop,English,Web,79,0.5,0.32,280,No
+24-04-2023,Sip Calculator,15800.0,India,Finance,Mobile,English,Web,89,0.62,0.23,220,Yes
+25-01-2023,Loan Interest,5900.0,Uk,Finance,Desktop,English,Web,69,0.4,0.39,250,No
+25-02-2023,Artificial Intelligence,15000.0,India,Technology,Desktop,English,Web,88,0.61,0.24,320,Yes
+25-03-2023,Soft Skills Training,6900.0,India,Career,Desktop,English,Web,71,0.43,0.37,270,No
+25-04-2023,Retirement Planning,7600.0,Usa,Finance,Desktop,English,Web,74,0.46,0.35,300,No
+26-01-2023,Insurance Plans,6100.0,India,Finance,Desktop,English,Web,70,0.41,0.37,260,No
+26-02-2023,Nlp Course,7200.0,India,Technology,Desktop,English,Web,72,0.44,0.36,280,No
+26-03-2023,Resume Builder,9800.0,India,Career,Desktop,English,Web,80,0.52,0.31,260,No
+26-04-2023,Insurance Premium,11500.0,India,Finance,Desktop,English,Web,80,0.52,0.31,270,No
+27-01-2023,Amazon Sale,22000.0,India,Ecomerce,Mobile,English,Web,93,0.66,0.19,320,Yes
+27-02-2023,Computer Vision,6800.0,Uk,Technology,Desktop,English,Web,70,0.42,0.38,270,No
+27-03-2023,Linkedin Profile Tips,8400.0,Usa,Career,Desktop,English,Web,77,0.48,0.34,250,No
+27-04-2023,Health Insurance,14500.0,India,Insurance,Desktop,English,Web,88,0.61,0.24,290,No
+28-01-2023,Flipkart Offers,20500.0,India,Ecomerce,Mobile,English,Web,91,0.64,0.21,310,Yes
+28-02-2023,Data Analyst Jobs,13400.0,India,Career,Desktop,English,Web,85,0.57,0.27,290,No
+28-03-2023,Interview Questions,15800.0,India,Career,Mobile,English,Web,88,0.61,0.24,240,Yes
+28-04-2023,Life Insurance Plans,13200.0,India,Insurance,Desktop,English,Web,86,0.59,0.26,300,No
+29-01-2023,Laptop Deals,14500.0,Usa,Ecomerce,Desktop,English,Web,85,0.58,0.26,300,No
+29-03-2023,Hr Interview,10500.0,India,Career,Mobile,English,Web,82,0.54,0.3,230,No
+29-04-2023,Term Insurance,11800.0,India,Insurance,Desktop,English,Web,83,0.55,0.29,280,No
+30-01-2023,Mobile Phones,17200.0,India,Technology,Mobile,English,Web,88,0.61,0.24,280,No
+30-03-2023,Technical Interview,11200.0,India,Career,Desktop,English,Web,83,0.55,0.29,260,No
+30-04-2023,Car Insurance,16000.0,India,Insurance,Mobile,English,Web,90,0.63,0.22,240,Yes
+31-01-2023,Ai Tools,19000.0,Usa,Technology,Desktop,English,Web,90,0.63,0.22,290,No
+31-03-2023,Job Portals,13000.0,India,Career,Desktop,English,Web,85,0.57,0.27,280,No
