@@ -25,6 +25,7 @@ This project demonstrates a complete data analytics workflow using a Google Sear
 Google-Analysis/
 
 ├── analysis.py
+
 ├── data/
 │   ├── raw/raw.csv
 │   ├── clean/google_cleaned.csv
@@ -50,3 +51,4 @@ Google-Analysis/
 ✅Conclusion
 
 This project reflects a real-world data analytics process and can be showcased for academic evaluation.
+
