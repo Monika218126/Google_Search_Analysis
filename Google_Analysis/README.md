@@ -48,9 +48,9 @@ Google-Analysis/
 
 ├── visuals/
 
-│     ├── hbar_category_search_volume.png
+      ├── hbar_category_search_volume.png
 
-│     ├── boxplot_bounce_rate.png
+      ├── boxplot_bounce_rate.png
  
 │     ├── scatter_volume_vs_ctr.png
 
@@ -73,6 +73,7 @@ Google-Analysis/
 ✅Conclusion
 
 This project reflects a real-world data analytics process and can be showcased for academic evaluation.
+
 
 
 
